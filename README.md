@@ -143,18 +143,6 @@ _Backend · Systems · Infrastructure · SRE_
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Goutam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutamtadi1&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutamtadi1&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
 <div align="center">
 
 _"Making systems reliable, one deployment at a time."_
